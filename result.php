@@ -62,7 +62,7 @@
 					}
 					
 					print("</b></td></tr>");
-    			print("<tr><td>Uw abonnementskosten zijn:</td><td><b>€$bedrag,- per jaar.</b></td></tr></table>");						
+    			print("<tr><td>Uw abonnementskosten zijn:</td><td><b>â‚¬$bedrag,- per jaar.</b></td></tr></table>");						
 										
 				}
 			} 
